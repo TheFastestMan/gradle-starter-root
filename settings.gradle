@@ -1,0 +1,9 @@
+rootProject.name = 'gradle-starter-root'
+include 'view'
+include 'api'
+include 'model'
+include 'util'
+include 'model:service'
+include 'model:persistence'
+
+
